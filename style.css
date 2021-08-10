@@ -1,6 +1,6 @@
 body{
     margin-top: -30px;
-    background-image: url(/images/background.gif);
+    background-image: url(background.gif);
 }
 .logo{
   width: 30px;
@@ -32,7 +32,7 @@ body{
     margin-top: -20px;
     padding-top: 45px;;
     min-height: 360px;
-    background-image: url(/images/earth2.gif);
+    background-image: url(earth2.gif);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 35em;
@@ -52,7 +52,7 @@ body{
     transform: scale(1.5);
 }
 .info{
-    background-image: url(/images/h1bc.webp);
+    background-image: url(h1bc.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 20em;
@@ -133,7 +133,7 @@ main{
     padding: 15px;
     }
 .main-text:hover{
-    background-image: url(/images/jyldyz-logo.jpg);
+    background-image: url(jyldyz-logo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     font-size: 2em;
